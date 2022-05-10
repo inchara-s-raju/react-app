@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "firstName": "INCH",
+      "lastName": "B",
+      "dateOfBirth": "2022-05-10",
+      "phoneNumber": "+19964961903",
+      "pinCode": "8832788",
+      "id": 1
+    }
+  ]
+}
